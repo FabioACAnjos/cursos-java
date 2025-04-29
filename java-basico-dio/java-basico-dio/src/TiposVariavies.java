@@ -29,8 +29,30 @@ public class TiposVariavies {
          
  
      }
+
+     // Aula 4
+
+     public static void Aula4(String[] args) {
+
+        int numero = 1;
+
+        numero = 2;
+
+        // valor_nunca_podera_mudar, variável x Constantes
+        // constante são variáveis que não podem ser alteradas
+
+        // desse modo escrever final double VALOR_DE_PI = 3.14;
+
+        final double VALOR_DE_PI = 3.14;
+
+         
+
+     }
      
  
  }
 
+
+ // Estudar tipos primitivos
+ // Estudar a classe String que repreenta texto na aplicação.
 
